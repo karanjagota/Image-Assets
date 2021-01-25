@@ -1,2 +1,2 @@
-# Image-Assets
-Assets Folder (Static Web Hosting)
+# Image Assets
+Nothing Fancy
