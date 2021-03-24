@@ -2,7 +2,7 @@
 Nothing Fancy
 
 - Snapshots for Useful APIs and Bots. [ Postman Workspace ]
-- Image Assets of Airman. [ISO 3166-1 alpha2][iso3166a2] standard. 
+- Image Assets of Airman Mobile App. [ISO 3166-1 alpha2][iso3166a2] standard. 
 
 The Flag files are in the public domain and were obtained from
 [Wikimedia Commons][commons].
